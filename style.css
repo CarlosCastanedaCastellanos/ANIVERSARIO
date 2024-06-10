@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+body{
+  background-color: #344a75;
+}
+p{
+  color:#031436
+  front.size:80px
+  font-family:
+ }
+.content1{
+  aling-items: center;
+  justify-content: center;
+  display: flex;
+}
+.content1 img{
+  height: 100px;
+}
